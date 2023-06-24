@@ -1,3 +1,6 @@
+Kindly read my medium article regarding this repo: https://medium.com/@rajannoel/visual-question-answering-c5c46f97dc72
+
+# What is this repo about: 
 Imagine checking out a shoe in a store and say, you need answers to specific questions such as, “Is this an original brand ?” or “Do these shoes last long?”.
 Now, imagine having an application which can answer all such questions.
 
